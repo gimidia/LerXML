@@ -21,11 +21,9 @@ namespace LerXML
 
             //                case "Login":
             //                    //Console.WriteLine("The LOGIN is " + reader.ReadString());
-            //                    textBox1.Text = reader.ReadString();
             //                    break;
             //                case "Password":
             //                    //Console.WriteLine("The PASSWORD is " + reader.ReadString());
-            //                    textBox2.Text = reader.ReadString();
             //                    break;
             //                case "Product_id":
             //                    Console.WriteLine("The ID is " + reader.ReadString());
